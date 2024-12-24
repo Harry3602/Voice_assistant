@@ -1,6 +1,6 @@
 # Voice Assistant
 
-This is a simple voice assistant application that can recognize speech, respond with text-to-speech, and perform various tasks such as taking screenshots, performing Google searches, and managing tasks.
+This is a simple voice assistant application runs on console that can recognize speech, respond with text-to-speech, and perform various tasks such as taking screenshots, performing Google searches, and managing tasks.
 
 ## Features
 
@@ -19,8 +19,8 @@ This is a simple voice assistant application that can recognize speech, respond 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/voice_assistant.git
-    cd voice_assistant
+    git clone https://github.com/Harry3602/Voice_assistant.git
+    cd Voice_assistant
     ```
 
 2. Create a virtual environment and activate it:
